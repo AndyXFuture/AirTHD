@@ -1,0 +1,251 @@
+Added Component: Designator=A1(ANT-Rainsun-AN5120)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=CON1(4Pin≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CON2(4Pin≈≈’Î)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CON3(3*4Ã˘∆¨∞¥≈•)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(LED_5050_WS2812B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "5050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RGB"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN-28)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MFG #1"; Value = "SILICON LABS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART DESC"; Value = "SINGLE-CHIP USB TO UART BRIDGE, QFN28, RoHS."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NUMBER"; Value = "CP2102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(QFN-48_7X7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(SHT30)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB1(Type-C-TOP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT1(SMT_TRIODE_NPN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT2(SMT_TRIODE_NPN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3A Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3V3A Pin=C5-2
+Added Pin To Net: NetName=EN Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=3V3 Pin=CON1-2
+Added Pin To Net: NetName=Air_SCL Pin=CON1-3
+Added Pin To Net: NetName=Air_SDA Pin=CON1-4
+Added Pin To Net: NetName=3V3 Pin=CON2-1
+Added Pin To Net: NetName=GND Pin=CON2-2
+Added Pin To Net: NetName=Air_SCL Pin=CON2-3
+Added Pin To Net: NetName=Air_SDA Pin=CON2-4
+Added Pin To Net: NetName=GND Pin=CON3-1
+Added Pin To Net: NetName=GPIO0 Pin=CON3-2
+Added Pin To Net: NetName=VDD_5V Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GPIO27 Pin=D1-4
+Added Pin To Net: NetName=VDD_5V Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=3V3A Pin=R2-2
+Added Pin To Net: NetName=CP_Tx Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=DTR Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=RTS Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=3V3A Pin=R6-1
+Added Pin To Net: NetName=EN Pin=R6-2
+Added Pin To Net: NetName=Air_SCL Pin=R7-1
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=Air_SDA Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=ADDR Pin=R9-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=USB-PWR-DP Pin=U1-4
+Added Pin To Net: NetName=USB-PWR-DM Pin=U1-5
+Added Pin To Net: NetName=VDD_5V Pin=U1-7
+Added Pin To Net: NetName=VDD_5V Pin=U1-8
+Added Pin To Net: NetName=NetR1_2 Pin=U1-9
+Added Pin To Net: NetName=RTS Pin=U1-24
+Added Pin To Net: NetName=CP_Rx Pin=U1-25
+Added Pin To Net: NetName=NetR3_2 Pin=U1-26
+Added Pin To Net: NetName=DTR Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=VDD_5V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VDD_5V Pin=U2-3
+Added Pin To Net: NetName=NetC3_2 Pin=U2-4
+Added Pin To Net: NetName=3V3 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U3-0
+Added Pin To Net: NetName=3V3A Pin=U3-1
+Added Pin To Net: NetName=NetA1_1 Pin=U3-2
+Added Pin To Net: NetName=3V3A Pin=U3-3
+Added Pin To Net: NetName=3V3A Pin=U3-4
+Added Pin To Net: NetName=SENSOR_VP Pin=U3-5
+Added Pin To Net: NetName=GPIO37 Pin=U3-6
+Added Pin To Net: NetName=GPIO38 Pin=U3-7
+Added Pin To Net: NetName=SENSOR_VN Pin=U3-8
+Added Pin To Net: NetName=EN Pin=U3-9
+Added Pin To Net: NetName=GPIO34 Pin=U3-10
+Added Pin To Net: NetName=GPIO35 Pin=U3-11
+Added Pin To Net: NetName=Air_SDA Pin=U3-12
+Added Pin To Net: NetName=Air_SCL Pin=U3-13
+Added Pin To Net: NetName=GPIO25 Pin=U3-14
+Added Pin To Net: NetName=GPIO26 Pin=U3-15
+Added Pin To Net: NetName=GPIO27 Pin=U3-16
+Added Pin To Net: NetName=GPIO14 Pin=U3-17
+Added Pin To Net: NetName=GPIO12 Pin=U3-18
+Added Pin To Net: NetName=3V3A Pin=U3-19
+Added Pin To Net: NetName=GPIO13 Pin=U3-20
+Added Pin To Net: NetName=GPIO15 Pin=U3-21
+Added Pin To Net: NetName=GPIO2 Pin=U3-22
+Added Pin To Net: NetName=GPIO0 Pin=U3-23
+Added Pin To Net: NetName=GPIO4 Pin=U3-24
+Added Pin To Net: NetName=FLASH_CS Pin=U3-25
+Added Pin To Net: NetName=FLASH_SD0 Pin=U3-27
+Added Pin To Net: NetName=GPIO9 Pin=U3-28
+Added Pin To Net: NetName=GPIO10 Pin=U3-29
+Added Pin To Net: NetName=FLASH_SD2 Pin=U3-30
+Added Pin To Net: NetName=FLASH_CLK Pin=U3-31
+Added Pin To Net: NetName=FLASH_SD3 Pin=U3-32
+Added Pin To Net: NetName=FLASH_SD1 Pin=U3-33
+Added Pin To Net: NetName=GPIO5 Pin=U3-34
+Added Pin To Net: NetName=ADDR Pin=U3-35
+Added Pin To Net: NetName=ALERT Pin=U3-36
+Added Pin To Net: NetName=3V3A Pin=U3-37
+Added Pin To Net: NetName=GPIO19 Pin=U3-38
+Added Pin To Net: NetName=GPIO22 Pin=U3-39
+Added Pin To Net: NetName=CP_Tx Pin=U3-40
+Added Pin To Net: NetName=CP_Rx Pin=U3-41
+Added Pin To Net: NetName=GPIO21 Pin=U3-42
+Added Pin To Net: NetName=3V3A Pin=U3-43
+Added Pin To Net: NetName=3V3A Pin=U3-46
+Added Pin To Net: NetName=Air_SDA Pin=U4-1
+Added Pin To Net: NetName=ADDR Pin=U4-2
+Added Pin To Net: NetName=ALERT Pin=U4-3
+Added Pin To Net: NetName=Air_SCL Pin=U4-4
+Added Pin To Net: NetName=3V3 Pin=U4-5
+Added Pin To Net: NetName=3V3 Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-2
+Added Pin To Net: NetName=GND Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=VDD_5V Pin=USB1-A4
+Added Pin To Net: NetName=USB-PWR-DP Pin=USB1-A6
+Added Pin To Net: NetName=USB-PWR-DM Pin=USB1-A7
+Added Pin To Net: NetName=VDD_5V Pin=USB1-A9
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=VDD_5V Pin=USB1-B4
+Added Pin To Net: NetName=USB-PWR-DP Pin=USB1-B6
+Added Pin To Net: NetName=USB-PWR-DM Pin=USB1-B7
+Added Pin To Net: NetName=VDD_5V Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Pin To Net: NetName=NetR4_2 Pin=VT1-1
+Added Pin To Net: NetName=RTS Pin=VT1-2
+Added Pin To Net: NetName=EN Pin=VT1-3
+Added Pin To Net: NetName=NetR5_2 Pin=VT2-1
+Added Pin To Net: NetName=DTR Pin=VT2-2
+Added Pin To Net: NetName=GPIO0 Pin=VT2-3
+Added Member To Class: ClassName=AirTHD Member=Component A1 RAINSUN
+Added Member To Class: ClassName=AirTHD Member=Component C1 0.1uF
+Added Member To Class: ClassName=AirTHD Member=Component C2 10uF
+Added Member To Class: ClassName=AirTHD Member=Component C3 10nF
+Added Member To Class: ClassName=AirTHD Member=Component C4 10uF
+Added Member To Class: ClassName=AirTHD Member=Component C5 0.1uF
+Added Member To Class: ClassName=AirTHD Member=Component C6 0.1uF
+Added Member To Class: ClassName=AirTHD Member=Component C7 0.1uF
+Added Member To Class: ClassName=AirTHD Member=Component C8 4.7uF
+Added Member To Class: ClassName=AirTHD Member=Component CON1 0.96_OLED
+Added Member To Class: ClassName=AirTHD Member=Component CON2 SGP30
+Added Member To Class: ClassName=AirTHD Member=Component CON3 ∞¥≈•
+Added Member To Class: ClassName=AirTHD Member=Component D1 RGB
+Added Member To Class: ClassName=AirTHD Member=Component R1 10K
+Added Member To Class: ClassName=AirTHD Member=Component R2 0R
+Added Member To Class: ClassName=AirTHD Member=Component R3 200R
+Added Member To Class: ClassName=AirTHD Member=Component R4 12K
+Added Member To Class: ClassName=AirTHD Member=Component R5 12K
+Added Member To Class: ClassName=AirTHD Member=Component R6 10K
+Added Member To Class: ClassName=AirTHD Member=Component R7 10K
+Added Member To Class: ClassName=AirTHD Member=Component R8 10K
+Added Member To Class: ClassName=AirTHD Member=Component R9 10K
+Added Member To Class: ClassName=AirTHD Member=Component U1 CP2102
+Added Member To Class: ClassName=AirTHD Member=Component U2 LP2992 3V3
+Added Member To Class: ClassName=AirTHD Member=Component U3 ESP32_SIP
+Added Member To Class: ClassName=AirTHD Member=Component U4 SHT30
+Added Member To Class: ClassName=AirTHD Member=Component USB1 Type-C
+Added Member To Class: ClassName=AirTHD Member=Component VT1 S8050
+Added Member To Class: ClassName=AirTHD Member=Component VT2 S8050

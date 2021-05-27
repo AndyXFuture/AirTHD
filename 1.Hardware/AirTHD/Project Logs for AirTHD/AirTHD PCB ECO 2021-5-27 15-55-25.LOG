@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Air_SCL Pin=CON2-3
+Removed Pin From Net: NetName=Air_SDA Pin=CON2-4
+Added Pin To Net: NetName=Air_SDA Pin=CON2-3
+Added Pin To Net: NetName=Air_SCL Pin=CON2-4

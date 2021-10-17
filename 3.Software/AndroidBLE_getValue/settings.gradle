@@ -1,0 +1,2 @@
+rootProject.name = "Ble_getValue"
+include ':app'

@@ -1,6 +1,0 @@
-SGP30 带LDO模块接线说明：
-VDD - 5V/3.3V
-GND - 接地
-SCL - P1.0     
-SDA - P1.1   
-串口波特率：115200bps@22.184MHz

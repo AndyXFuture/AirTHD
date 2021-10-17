@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for AirTHD
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -288,6 +288,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for AirTHD\AirTHD.RUL
 DItemRevisionGUID=
 
+[GeneratedDocument25]
+DocumentPath=Project Outputs for AirTHD\Design Rule Check - AirTHD.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -335,7 +339,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for AirTHD
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

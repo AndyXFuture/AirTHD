@@ -1,0 +1,7 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "task.h": "c",
+    "sgp30.h": "c"
+  }
+}

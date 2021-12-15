@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/Esp-idf_pro/AirTHD_test/build/CMakeFiles/bootloader
+F:/Esp-idf_pro/AirTHD_test/build/CMakeFiles/bootloader.rule
+F:/Esp-idf_pro/AirTHD_test/build/CMakeFiles/bootloader-complete.rule
+F:/Esp-idf_pro/AirTHD_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/Esp-idf_pro/AirTHD_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/Esp-idf_pro/AirTHD_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/Esp-idf_pro/AirTHD_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+F:/Esp-idf_pro/AirTHD_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/Esp-idf_pro/AirTHD_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/Esp-idf_pro/AirTHD_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lv_conf_internal.h": "c",
+        "esp_ibeacon_api.h": "c",
+        "future": "c",
+        "system_error": "c",
+        "typeinfo": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}

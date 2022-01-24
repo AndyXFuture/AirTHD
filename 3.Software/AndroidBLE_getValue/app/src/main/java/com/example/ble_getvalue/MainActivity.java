@@ -308,7 +308,7 @@ public class MainActivity extends ListActivity {
             int Minor = Integer.parseInt(minor, 16);
             temp = (int)(Major/100)/10;
             hum = Major%100;
-            tvoc = (Minor%100)*10;
+            tvoc = (Minor%100)*100;
             eco2 = (Minor/100)*10;
 
             if(uuid.equals(target_uuid) || uuid2.equals(target_uuid)){
